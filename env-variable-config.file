@@ -1,0 +1,13 @@
+apiVersion: v1
+data:
+  STUDENT_NAME: Nagaraju
+  STUDENT_SCHOOL: UMKC
+  STUDENT_WORK: DevOps
+kind: ConfigMap
+metadata:
+  creationTimestamp: 2018-02-24T21:08:16Z
+  name: my-map
+  namespace: default
+  resourceVersion: "77768"
+  selfLink: /api/v1/namespaces/default/configmaps/my-map
+  uid: d4f27367-19a6-11e8-a7b7-124c87327ca0
